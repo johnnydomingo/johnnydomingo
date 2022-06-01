@@ -11,4 +11,4 @@
 ### ✨ Let's connect! 
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin/johnnydomingo-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="johnnydomingo-" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/johnnydomingo-?trk=profile-badge">Johnny Domingo</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="johnnydomingo-" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/johnnydomingo">Johnny Domingo</a></div>
