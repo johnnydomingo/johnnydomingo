@@ -13,12 +13,13 @@
 - 📫 Reach me at johnnykdomingo@gmail.com
 - 🤙 Fun fact: I have been cageless shark diving twice and was face-to-face with a 15' tiger shark 
 
-### ✨ Let's connect! 
+### Let's connect! 
 <a href="https://www.linkedin.com/in/johnnydomingo/">
 <img alt="LinkedIn" href="https://www.linkedin.com/in/johnnydomingo/" src="https://img.shields.io/badge/linkedin/johnnydomingo-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 ---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
