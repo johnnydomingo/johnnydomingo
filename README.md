@@ -6,7 +6,7 @@
 
 ## 👋 Hi, I'm Johnny
 ### Full stack developer interested in front end development
-#### Open to full time opportunities
+#### 🖥️ Available for full time opportunities
 
 
 - 🔭 I’m currently working on my new portfolio & a social media web application that promotes volunteerism
