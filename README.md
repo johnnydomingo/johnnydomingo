@@ -1,19 +1,8 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="150"/>
-</div>
 
 ---
 
 ## 👋 Hi, I'm Johnny
-### Full stack developer interested in front end development
-#### 🖥️ Available for full time opportunities
 
-
-- 🔭 I’m currently working on my new portfolio & a social media web application that promotes volunteerism
-- 🌱 I’m currently learning animations and design principles to make effortless user experiences
-- 🤯 I'm looking for help with implementing GSAP and Anime.js
-- 📫 Reach me at johnnykdomingo@gmail.com
-- 🤙 Fun fact: I have been cageless shark diving twice and was face-to-face with a 15' tiger shark 
 
 ### Let's connect! 
 <a href="https://www.linkedin.com/in/johnnydomingo/">
